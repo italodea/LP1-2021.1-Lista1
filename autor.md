@@ -2,16 +2,16 @@
 
 Preencha os dados abaixo para identificar a autoria do trabalho.
 
-- Nome: *\<__insira seu nome aqui__>*
-- Email: *\<insira seu email aqui>*
-- Turma: *\<insira sua turma aqui>*
+- Nome: *Ítalo de Azevedo Albuquerque*
+- Email: *italodeazevedo99@gmail.com*
+- Turma: *T02*
 
 # Questões Finalizadas
 
-- [ ] Negativos 5
-- [ ] Soma Vizinhos
+- [x] Negativos 5
+- [x] Soma Vizinhos
 - [ ] Intervalos
-- [ ] Fibonacci
+- [x] Fibonacci
 - [ ] Minmax
 - [ ] Inverter
 - [ ] Filtragem
