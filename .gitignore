@@ -1,0 +1,7 @@
+a.out
+exec.sh
+execFunction.sh
+init.cpp
+resultados.txt
+build/
+.vscode/
