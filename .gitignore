@@ -5,3 +5,4 @@ init.cpp
 resultados.txt
 build/
 .vscode/
+cmake-build-debug/
