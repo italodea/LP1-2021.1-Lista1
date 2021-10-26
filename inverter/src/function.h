@@ -1,6 +1,8 @@
 #ifndef FUNCTION_H
 #define FUNCTION_H
 #include <array>
+#include <vector>
+#include <algorithm>
 using std::array;
 
 #include <string>
