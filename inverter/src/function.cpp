@@ -9,10 +9,7 @@ template <std::size_t SIZE>
 void reverse( std::array< std::string, SIZE > & arr )
 {
     std::string temp = "";
-    if (SIZE == 0 || SIZE == 1){
-        /*do nothing*/
-    }
-    else if(SIZE == 2 || SIZE == 3){
+    if(SIZE == 2 || SIZE == 3){
         temp = arr[0];
         arr[0] = arr[SIZE-1];
         arr[SIZE-1] = temp;
